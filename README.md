@@ -8,8 +8,9 @@
 [airbnb/javascript](https://github.com/airbnb/javascript)  
 [bevacqua.js](https://github.com/bevacqua/js)  
 [superhero.js](https://github.com/superherojs/superherojs)
+[Callbackhell](http://callbackhell.com/)
 ##Python
-
+[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 ##CSS
 [https://speakerdeck.com/mdo/at-mdo-ular-css](https://speakerdeck.com/mdo/at-mdo-ular-css)  
