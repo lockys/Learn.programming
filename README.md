@@ -1,4 +1,4 @@
-#In order to learn to write good, maintainable code.
+#Learn to Write good, maintainable code :smiley:
 #{
 ##JavaScript
 [Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
