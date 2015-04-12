@@ -1,5 +1,5 @@
-In order to learn to write good, maintainable code.
-# {
+#In order to learn to write good, maintainable code.
+#{
 ##JavaScript
 [Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
 [JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
