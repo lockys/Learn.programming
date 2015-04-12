@@ -1,7 +1,7 @@
-# {
+# {In Order to Learn Writing Good, Maintainable Code
 ##JavaScript
-[http://alistapart.com/article/the-design-of-code-organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
-[https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
+[Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
+[JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
 [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)  
 [idiomatic.js](https://github.com/rwaldron/idiomatic.js)  
 [airbnb/javascript](https://github.com/airbnb/javascript)  
