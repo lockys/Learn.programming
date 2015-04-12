@@ -6,7 +6,7 @@
 [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)  
 [idiomatic.js](https://github.com/rwaldron/idiomatic.js)  
 [airbnb/javascript](https://github.com/airbnb/javascript)  
-[bevacqua.js](https://github.com/bevacqua/js)
+[bevacqua.js](https://github.com/bevacqua/js)  
 [superhero.js](https://github.com/superherojs/superherojs)
 ##Python
 
