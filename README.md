@@ -8,7 +8,8 @@
 [airbnb/javascript](https://github.com/airbnb/javascript)  
 [bevacqua.js](https://github.com/bevacqua/js)  
 [superhero.js](https://github.com/superherojs/superherojs)  
-[Callbackhell](http://callbackhell.com/)
+[Callbackhell](http://callbackhell.com/)  
+[Let's write fast JS](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
 ##Python
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
