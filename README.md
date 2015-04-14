@@ -13,7 +13,7 @@
 [Callbackhell](http://callbackhell.com/)  
 [Let's write fast JS](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
 [largeScaleJavaScript](http://addyosmani.com/largescalejavascript/)
-
+[largeScaleJavaScript Slide](http://www.slideshare.net/AddyOsmani/largescale-javascript-development)
 ##Python
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
