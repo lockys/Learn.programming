@@ -15,9 +15,13 @@
 [Let's write fast JS](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)  
 [largeScaleJavaScript Slide](http://www.slideshare.net/AddyOsmani/largescale-javascript-development)  
 ##Python
-[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)  
+### Design pattern
 [collection of python pattern](https://github.com/faif/python-patterns)  
+### Guideline, trick, performance
+[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)  
 ##CSS
+### Structure
 [https://speakerdeck.com/mdo/at-mdo-ular-css](https://speakerdeck.com/mdo/at-mdo-ular-css)  
+### Guideline, trick, performance
 [bevacaua/css](https://github.com/bevacqua/css)  
 ###}
