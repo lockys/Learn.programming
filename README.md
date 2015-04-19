@@ -14,6 +14,7 @@
 [Callbackhell](http://callbackhell.com/)  
 [Let's write fast JS](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)  
 [largeScaleJavaScript Slide](http://www.slideshare.net/AddyOsmani/largescale-javascript-development)  
+[JS: The Right Way](http://jstherightway.org/)
 ##Python
 ### Design pattern
 [collection of python pattern](https://github.com/faif/python-patterns)  
