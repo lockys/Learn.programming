@@ -3,7 +3,7 @@ myBucketReadingList(){
 ##JavaScript
 ### Design pattern, Guideline, trick, performance
 ================
-- [ ][Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
+- [x] [Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
 - [ ][JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
 - [ ][largeScaleJavaScript](http://addyosmani.com/largescalejavascript/)  
 - [x][JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)  
