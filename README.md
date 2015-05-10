@@ -2,6 +2,7 @@
 myBucketReadingList(){
 ##JavaScript
 ### Design pattern, Guideline, trick, performance
+================
 - [ ][Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
 - [ ][JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
 - [ ][largeScaleJavaScript](http://addyosmani.com/largescalejavascript/)  
@@ -17,13 +18,17 @@ myBucketReadingList(){
 - [ ][JavaScript Pattern](https://github.com/shichuan/javascript-patterns)
 ##Python
 ### Design pattern
+================
 - [ ][collection of python pattern](https://github.com/faif/python-patterns)  
 ### Guideline, trick, performance
+================
 - [ ][The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)  
 ##CSS
 ### Structure
+================
 - [ ][https://speakerdeck.com/mdo/at-mdo-ular-css](https://speakerdeck.com/mdo/at-mdo-ular-css)  
 ### Guideline, trick, performance
+================
 - [ ][bevacaua/css](https://github.com/bevacqua/css)
 - [ ][CSS-Style](https://github.com/byrichardpowell/CSS-Style)  
 - [ ][HTML-CSS The Right Way](https://github.com/renoirb/htmlcsstherightway)
