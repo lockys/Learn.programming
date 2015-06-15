@@ -15,6 +15,7 @@
 - [ ] [superhero.js](https://github.com/superherojs/superherojs)  
 - [ ] [JS: The Right Way](http://jstherightway.org/)  
 - [ ] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
+- [ ] [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 ##Python  
@@ -34,5 +35,6 @@
 - [ ] [bevacaua/css](https://github.com/bevacqua/css)  
 - [ ] [CSS-Style](https://github.com/byrichardpowell/CSS-Style)    
 - [ ] [HTML-CSS The Right Way](https://github.com/renoirb/htmlcsstherightway)  
+- [ ] [Fundemental CSS Position](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 
 ###}
