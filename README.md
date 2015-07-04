@@ -1,5 +1,4 @@
-#Learn to Write good, maintainable code :smiley:
-:books:Reading List, anything needed to understand for me:books:
+:books: Reading List :books:
 ==
 JavaScript
 ==
@@ -18,12 +17,14 @@ JavaScript
 - [ ] [JS: The Right Way](http://jstherightway.org/)  
 - [ ] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
 - [ ] [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-## JS Framework
+- [ ] [Good Talk about Event Loop](https://youtu.be/8aGhZQkoFbQ)
+### JS Framework
 - [ ] [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+
 Node
 ==
-
-
+- [ ][The Node Way](http://thenodeway.io/)
+- [ ][module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
 Python  
 ==
 ### Design pattern  
