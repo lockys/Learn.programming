@@ -19,6 +19,7 @@ JavaScript
 - [ ] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
 - [ ] [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [x] [Good Talk about Event Loop](https://youtu.be/8aGhZQkoFbQ)
+
 ### JS Framework
 - [ ] [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
