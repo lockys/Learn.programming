@@ -1,6 +1,8 @@
 #Learn to Write good, maintainable code :smiley:
-###myBucketReadingList(){
-##JavaScript
+:books:Reading List, anything needed to understand for me:books:
+==
+JavaScript
+==
 ### Design pattern, Guideline, trick, performance
 - [x] [Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
 - [x] [JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
@@ -16,10 +18,14 @@
 - [ ] [JS: The Right Way](http://jstherightway.org/)  
 - [ ] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
 - [ ] [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+## JS Framework
+- [ ] [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
+Node
+==
 
 
-##Python  
-
+Python  
+==
 ### Design pattern  
 - [ ] [collection of python pattern](https://github.com/faif/python-patterns)  
 
@@ -27,8 +33,8 @@
 - [ ] [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)  
 - [ ] [The Hitchhiker’s Guide to Packaging](http://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/index.html)
 
-##CSS  
-
+CSS  
+==
 ### Structure  
 - [ ] [https://speakerdeck.com/mdo/at-mdo-ular-css](https://speakerdeck.com/mdo/at-mdo-ular-css)   
 
@@ -37,5 +43,3 @@
 - [ ] [CSS-Style](https://github.com/byrichardpowell/CSS-Style)    
 - [ ] [HTML-CSS The Right Way](https://github.com/renoirb/htmlcsstherightway)  
 - [ ] [Fundemental CSS Position](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-
-###}
