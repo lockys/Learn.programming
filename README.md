@@ -24,8 +24,8 @@ JavaScript
 
 Node
 ==
-- [ ][The Node Way](http://thenodeway.io/)
-- [ ][module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
+- [ ] [The Node Way](http://thenodeway.io/)
+- [ ] [module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
 
 Python  
 ==
