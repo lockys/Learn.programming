@@ -7,7 +7,6 @@ JavaScript
 - [x] [Organizing-javascript](http://alistapart.com/article/the-design-of-code-organizing-javascript)  
 - [x] [JavaScript-Module-Pattern](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/)  
 - [ ] [largeScaleJavaScript](http://addyosmani.com/largescalejavascript/)  
-- [x] [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)  
 - [ ] [idiomatic.js](https://github.com/rwaldron/idiomatic.js)  
 - [ ] [airbnb/javascript](https://github.com/airbnb/javascript)  
 - [ ] [bevacqua.js](https://github.com/bevacqua/js)  
@@ -16,7 +15,7 @@ JavaScript
 - [ ] [largeScaleJavaScript Slide](http://www.slideshare.net/AddyOsmani/largescale-javascript-development)  
 - [ ] [superhero.js](https://github.com/superherojs/superherojs)  
 - [ ] [JS: The Right Way](http://jstherightway.org/)  
-- [ ] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
+- [x] [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
 - [ ] [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [x] [Good Talk about Event Loop](https://youtu.be/8aGhZQkoFbQ)
 
@@ -27,6 +26,10 @@ Node
 ==
 - [ ] [The Node Way](http://thenodeway.io/)
 - [ ] [module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
+
+### Testing
+- [x] [explanations of Test 1](http://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
+- [x] [explanations of Test 2](http://syshen.cc/post/23479369750/mocha-node-js-unit-test)
 
 Python  
 ==
