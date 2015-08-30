@@ -43,7 +43,7 @@ ReactJS x Flux
 Python  
 ==
 ### Design pattern  
-- [collection of python pattern](https://github.com/faif/python-patterns)  
+- [Collection of python pattern](https://github.com/faif/python-patterns)  
 
 ### Guideline, trick, performance
 - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)  
