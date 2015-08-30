@@ -1,6 +1,3 @@
-:books: Learning Resources I would like to keep in mind. :books:
-==
-
 JavaScript
 ==
 ### Design pattern, Guideline, trick, performance
