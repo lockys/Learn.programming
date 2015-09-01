@@ -15,6 +15,9 @@ JavaScript
 - [JavaScript Pattern](https://github.com/shichuan/javascript-patterns)  
 - [EssentialJsDesignPattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Good Talk about Event Loop](https://youtu.be/8aGhZQkoFbQ)
+- [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [DOM and event handling](http://quirksmode.org/js/contents.html)
 
 ### JS Framework
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
