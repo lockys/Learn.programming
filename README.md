@@ -54,6 +54,10 @@ CSS
 ### Structure  
 - [https://speakerdeck.com/mdo/at-mdo-ular-css](https://speakerdeck.com/mdo/at-mdo-ular-css)   
 
+### CSS Center Methods
+- [The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
+- [How to align text vertically center in div with CSS?](http://stackoverflow.com/questions/8865458/how-to-align-text-vertically-center-in-div-with-css)
+
 ### Guideline, trick, performance  
 - [bevacaua/css](https://github.com/bevacqua/css)  
 - [CSS-Style](https://github.com/byrichardpowell/CSS-Style)    
