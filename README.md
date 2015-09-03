@@ -1,3 +1,20 @@
+Learning.
+==
+This is some learning resources I'm going to read and keep in mind.
+
+## Table of Contents
+
+- [JavaScript](#javascript)
+- [NodeJS](#nodejs)
+- [ReactJS x Flux](#reactjs-x-flux)
+- [Python](#python--)
+- [CSS](#css--)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+
 JavaScript
 ==
 ### Design pattern, Guideline, trick, performance
