@@ -57,6 +57,12 @@ CSS
 ### CSS Center Methods
 - [The Simplest Way To Center Elements Vertically And Horizontally](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
 - [How to align text vertically center in div with CSS?](http://stackoverflow.com/questions/8865458/how-to-align-text-vertically-center-in-div-with-css)
+- [Absolute Horizontal And Vertical Centering In CSS](http://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
+- [Centering in CSS: A Complete Guide
+](https://css-tricks.com/centering-css-complete-guide/)
+[用 css 讓區塊水平垂直置中](http://muki.tw/tech/css-div-center/)
+[How to align text vertically center in div with CSS?](http://stackoverflow.com/questions/8865458/how-to-align-text-vertically-center-in-div-with-css)
+[Centering a div block without the width](http://stackoverflow.com/questions/283961/centering-a-div-block-without-the-width)
 
 ### Guideline, trick, performance  
 - [bevacaua/css](https://github.com/bevacqua/css)  
