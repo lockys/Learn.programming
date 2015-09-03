@@ -7,8 +7,8 @@ This is some learning resources I'm going to read and keep in mind.
 - [JavaScript](#javascript)
 - [NodeJS](#nodejs)
 - [ReactJS x Flux](#reactjs-x-flux)
-- [Python](#python)
-- [CSS](#css)
+- [Python](#python--)
+- [CSS](#css--)
 
 JavaScript
 ==
