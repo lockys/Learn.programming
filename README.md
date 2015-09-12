@@ -39,6 +39,7 @@ NodeJS
 - [The Node Way](http://thenodeway.io/)
 - [module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
 - [steam handbook, pipe explanations.](https://github.com/substack/stream-handbook)
+- [Node 簡中資訊](https://github.com/youyudehexie/node123)
 
 ### Testing
 - [Explanations of Test 1](http://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
