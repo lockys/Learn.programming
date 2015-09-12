@@ -1,7 +1,7 @@
 Learning.
 ==
 This is some learning resources I'm going to read and keep in mind.
-
+[:sparkles: Check out issues as learning pool :sparkles:](https://github.com/lockys/Learning/issues)
 ## Table of Contents
 
 - [JavaScript](#javascript)
