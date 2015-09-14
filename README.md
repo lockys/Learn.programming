@@ -5,7 +5,7 @@ This are some learning resources I'm going to read and keep in mind.
 
 ###Categories
 - [NodeJS](https://github.com/lockys/Learning/labels/NodeJS)
-- [CSS](https://github.com/lockys/Learning/labels/JavaScript)
+- [CSS](https://github.com/lockys/Learning/labels/CSS)
 - [MustRead](https://github.com/lockys/Learning/labels/MustRead)
 - [JavaScript](https://github.com/lockys/Learning/labels/JavaScript)
 - [Python](https://github.com/lockys/Learning/labels/Python)
