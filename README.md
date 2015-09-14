@@ -1,10 +1,12 @@
 Learning.
 ==
 This are some learning resources I'm going to read and keep in mind.  
-Now I collect useful links & resources into issue for tracking them more conveniently.  
-Feel free to add issues(good stuffs :smiley:) but must add at least one of tags following:  
-NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign  
+**Now I collect useful links & resources into issue for tracking them more conveniently.**  
 
+Feel free to add issues(good stuffs :smiley:) but must add at least one of tags following:  
+```
+NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign  
+```
 [:sparkles: Issues :sparkles:](https://github.com/lockys/Learning/issues)
 
 ###Categories
