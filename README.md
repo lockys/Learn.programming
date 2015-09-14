@@ -2,6 +2,17 @@ Learning.
 ==
 This are some learning resources I'm going to read and keep in mind.  
 [:sparkles: Check out issues as learning pool :sparkles:](https://github.com/lockys/Learning/issues)
+
+###Categories
+- [NodeJS](https://github.com/lockys/Learning/labels/NodeJS)
+- [CSS](https://github.com/lockys/Learning/labels/JavaScript)
+- [MustRead](https://github.com/lockys/Learning/labels/MustRead)
+- [JavaScript](https://github.com/lockys/Learning/labels/JavaScript)
+- [Python](https://github.com/lockys/Learning/labels/Python)
+- [WebDevelopment](https://github.com/lockys/Learning/labels/WebDevelopment)
+- [Django](https://github.com/lockys/Learning/labels/Django)
+- [WebDesign](https://github.com/lockys/Learning/labels/WebDesign)
+
 ## Table of Contents
 
 - [JavaScript](#javascript)
