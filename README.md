@@ -58,12 +58,12 @@ NodeJS
 - [The Node Way](http://thenodeway.io/)
 - [module & module.exports](https://cnodejs.org/topic/5231a630101e574521e45ef8)
 - [steam handbook, pipe explanations.](https://github.com/substack/stream-handbook)
-- [Node 簡中資訊](https://github.com/youyudehexie/node123)
+- [Learning resources about Node((zh-cn))](https://github.com/youyudehexie/node123)
 
 ### Testing
 - [Explanations of Test 1](http://samwize.com/2014/02/08/a-guide-to-mochas-describe-it-and-setup-hooks/)
 - [Explanations of Test 2](http://syshen.cc/post/23479369750/mocha-node-js-unit-test)
-- [初识 mocha](https://cnodejs.org/topic/516526766d38277306c7d277)
+- [get to know mocha(zh-cn)](https://cnodejs.org/topic/516526766d38277306c7d277)
 
 ReactJS x Flux
 ==
@@ -101,3 +101,4 @@ CSS
 - [CSS-Style](https://github.com/byrichardpowell/CSS-Style)    
 - [HTML-CSS The Right Way](https://github.com/renoirb/htmlcsstherightway)  
 - [Fundemental CSS Position](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+- [Learn CSS Layout](http://learnlayout.com/)
