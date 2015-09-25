@@ -5,7 +5,7 @@ This are some learning resources I'm going to read and keep in mind.
 
 Feel free to add issues(good stuffs :smiley:) but must add at least one of tags following:  
 ```
-NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI
+NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI, Modules
 ```
 [:sparkles: Issues :sparkles:](https://github.com/lockys/Learning/issues)
 
@@ -19,6 +19,7 @@ NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI
 - [Django](https://github.com/lockys/Learning/labels/Django)
 - [WebDesign](https://github.com/lockys/Learning/labels/WebDesign)
 - [UI](https://github.com/lockys/Learning/labels/UI)
+- [Modules](https://github.com/lockys/Learning/labels/Modules)
 
 ## Table of Contents
 
