@@ -1,6 +1,6 @@
 Learning.
 ==
-https://img.shields.io/badge/Keep-Learning-green.svg?style=social  
+![](https://img.shields.io/badge/Keep-Learning-green.svg?style=social)
 This are some learning resources I'm going to read and keep in mind.  
 **Now I collect useful links & resources into issue for tracking them more conveniently.**  
 
