@@ -3,7 +3,7 @@ Learning.
 ![](https://img.shields.io/badge/Keep-Learning-green.svg?style=social)  
 This are some learning resources I'm going to read and keep in mind.  
 :sparkles: **Now I collect useful links & resources into issue for tracking them more conveniently.** :sparkles:    
-[:sparkles: Move to issues :sparkles:](https://github.com/lockys/Learning/issues)
+[:sparkles: Move to issues :sparkles:](https://github.com/lockys/Learning/issues)  
 You can feel very free to add issues(good stuffs :smiley:) but must add at least one of tags following please:  
 ```
 NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI, Modules, Git
