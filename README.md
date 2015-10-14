@@ -24,4 +24,6 @@ NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI
 - [Modules](https://github.com/lockys/Learning/labels/Modules)
 - [Git](https://github.com/lockys/Learning/labels/git)
 
-[Collection of Resources](https://github.com/lockys/Learning/blob/master/resource-list.md)
+Resources List
+==
+[Here!](https://github.com/lockys/Learning/blob/master/resource-list.md)
