@@ -7,9 +7,8 @@ This are some learning resources I'm going to read and keep in mind.
 You can feel very free to add issues.(good stuffs :smiley:)  
 Please add at least one of tags following for tracking then easily:  
 
-```
-NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI, Modules, Git
-```
+`NodeJS` `CSS` `MustRead` `JavaScript` `Python`   
+`WebDevelopment` `Django` `WebDesign` `UI` `Modules` `Git`
 
 ###Categories
 - [NodeJS](https://github.com/lockys/Learning/labels/NodeJS)
