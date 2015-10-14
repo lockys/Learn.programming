@@ -1,9 +1,8 @@
-Learning.
+What's this? ![](https://img.shields.io/badge/Keep-Learning-green.svg?style=social)  
 ==
-![](https://img.shields.io/badge/Keep-Learning-green.svg?style=social)  
 This are some learning resources I'm going to read and keep in mind.  
-:sparkles: **I collect useful links & resources into issue for tracking them more conveniently.** :sparkles:    
-:arrow_upper_right:[Move to issues](https://github.com/lockys/Learning/issues)  
+**I collect useful links & resources into issue for tracking them more conveniently.**      
+:arrow_upper_right: [Move to issues](https://github.com/lockys/Learning/issues)  
 You can feel very free to add issues.(good stuffs :smiley:)  
 Please add at least one of tags following for tracking then easily:  
 
