@@ -26,4 +26,4 @@ NodeJS, CSS, MustRead, JavaScript, Python, WebDevelopment, Django, WebDesign, UI
 
 Resources List
 ==
-[Here!](https://github.com/lockys/Learning/blob/master/resource-list.md)
+[`Reading List`](https://github.com/lockys/Learning/blob/master/resource-list.md)
