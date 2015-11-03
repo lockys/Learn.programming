@@ -47,7 +47,7 @@ NodeJS
 
 ReactJS x Flux
 ==
-## General
+### General
 - [React-Webpack-Cookbook](https://github.com/christianalfoni/react-webpack-cookbook)
 - [React-App-Example](https://github.com/tylermcginnis/github-notetaker-egghead)
 - [The-React-way](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
