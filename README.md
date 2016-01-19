@@ -1,14 +1,11 @@
-What's this? ![](https://img.shields.io/badge/Keep-Learning-green.svg?style=social)  
+What's this?  
 ==
 This are some learning resources I'm going to read and keep in mind.  
 **I collect useful links & resources into issue for tracking them more conveniently.**      
 :arrow_upper_right: [Move to issues](https://github.com/lockys/Learning/issues)  
-You can feel very free to add issues.(good stuffs :smiley:)  
-Please add at least one of tags following for tracking then easily:  
 
-`NodeJS` `CSS` `MustRead` `JavaScript` `Python` `WebDevelopment` `Django` `WebDesign` `UI` `Modules` `Git`
-
-###Categories
+Categories
+==
 - [NodeJS](https://github.com/lockys/Learning/labels/NodeJS)
 - [CSS](https://github.com/lockys/Learning/labels/CSS)
 - [MustRead](https://github.com/lockys/Learning/labels/MustRead)
@@ -21,6 +18,6 @@ Please add at least one of tags following for tracking then easily:
 - [Modules](https://github.com/lockys/Learning/labels/Modules)
 - [Git](https://github.com/lockys/Learning/labels/git)
 
-Resources List
+Old List
 ==
-[`Reading List`](https://github.com/lockys/Learning/blob/master/resource-list.md)
+[Old List](https://github.com/lockys/Learning/blob/master/resource-list.md) - Will not be updated.
