@@ -1,7 +1,6 @@
-This are some learning resources I'm going to read and keep in mind.
+This are some learning resources I'm going to read and keep in mind.   
 **I collect useful links & resources into issue for tracking them more conveniently.**      
 :arrow_upper_right: [Move to issues](https://github.com/lockys/Learning/issues)  
-[Old List](https://github.com/lockys/Learning/blob/master/resource-list.md) - Will not be updated.
 
 Categories
 ==
@@ -25,3 +24,6 @@ Categories
 ### Others
 - [MustRead](https://github.com/lockys/Learning/labels/MustRead)
 - [Modules](https://github.com/lockys/Learning/labels/Modules)
+
+___
+[The Old List](https://github.com/lockys/Learning/blob/master/resource-list.md) - Will not be updated.
