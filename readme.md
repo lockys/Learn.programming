@@ -1,6 +1,4 @@
 This are some learning resources I'm going to read and keep in mind.   
-**I collect useful links & resources into issue for tracking them more conveniently.**      
-:arrow_upper_right: [Move to issues](https://github.com/lockys/Learning/issues)  
 
 Categories
 ==
