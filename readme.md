@@ -25,5 +25,4 @@ Categories
 - [MustRead](https://github.com/lockys/Learning/labels/MustRead)
 - [Modules](https://github.com/lockys/Learning/labels/Modules)
 
-___
-[The Old List](https://github.com/lockys/Learning/blob/master/resource-list.md) - Will not be updated.
+
